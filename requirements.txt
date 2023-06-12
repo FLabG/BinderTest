@@ -1,4 +1,3 @@
 pandas
 ipywidgets
-glpk
 pyomo
