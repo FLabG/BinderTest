@@ -1,6 +1,2 @@
-numpy
-matplotlib
-pyomo
-gurobipy
 pandas
 ipywidgets
