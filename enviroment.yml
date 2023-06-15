@@ -1,5 +1,0 @@
-name: mybinder_environment
-channels:
-  - conda-forge
-dependencies:
-  - glpk
